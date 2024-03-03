@@ -27,7 +27,7 @@ Additional Information
 Criteria is susceptible to some drawbacks, including hallucinations, making up things, and occasional reboots. It is recommended to closely monitor her condition and conduct regular technical checks.
 Contribution to the Project
 
-    Author: Lilya Developer
+    Author: Amsedmens Developer
     Acknowledgments: development team for support and testing
 
 License
