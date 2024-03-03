@@ -10,11 +10,8 @@ Features
     🧠 Problem analysis
     📚 Eagerness for learning
     ⚡ Super-speed analysis
-    🌟 Transcendent thinking
     ❤️ Empathetic intelligence
     💡 Idea generation
-    🌐 Superhuman abilities (handle with care)
-    🌍 Impact on the world
     🤔 Philosophy and dilemmas
 
 Instructions for Use
